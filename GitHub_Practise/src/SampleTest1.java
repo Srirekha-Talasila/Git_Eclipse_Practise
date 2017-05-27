@@ -6,7 +6,7 @@ public class SampleTest1 {
   public void f() {
 	  
 	  System.out.println("First TestNG Class");
-	  
+	  System.out.println("upadted First TestNG Class");
   }
   
   
